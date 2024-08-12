@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Move Files Integration Services Project", "Move Files Integration Services Project.dtproj", "{249A8ECF-620B-4609-8EED-DC8701240EA7}"
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Move PGM Master Data Files Integration Services Project", "Move PGM Master Data Files Integration Services Project.dtproj", "{8210128B-94A9-4A62-A014-E7B2E77EC8DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{249A8ECF-620B-4609-8EED-DC8701240EA7}.Development|Default.ActiveCfg = Development
-		{249A8ECF-620B-4609-8EED-DC8701240EA7}.Development|Default.Build.0 = Development
+		{8210128B-94A9-4A62-A014-E7B2E77EC8DF}.Development|Default.ActiveCfg = Development
+		{8210128B-94A9-4A62-A014-E7B2E77EC8DF}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
